@@ -1,0 +1,12 @@
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.deps.json
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csprojAssemblyReference.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfoInputs.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.AssemblyInfo.cs
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.dll
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.pdb
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.json
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBook.DataAccess.runtimeconfig.dev.json
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBook.DataAccess.genruntimeconfig.cache

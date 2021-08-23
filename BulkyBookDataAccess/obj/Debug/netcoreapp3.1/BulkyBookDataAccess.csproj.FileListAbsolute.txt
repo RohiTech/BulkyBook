@@ -1,0 +1,9 @@
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBookDataAccess.deps.json
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBookDataAccess.dll
+D:\u_netcore\BulkyBookDataAccess\bin\Debug\netcoreapp3.1\BulkyBookDataAccess.pdb
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.csprojAssemblyReference.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.AssemblyInfoInputs.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.AssemblyInfo.cs
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.csproj.CoreCompileInputs.cache
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.dll
+D:\u_netcore\BulkyBookDataAccess\obj\Debug\netcoreapp3.1\BulkyBookDataAccess.pdb
