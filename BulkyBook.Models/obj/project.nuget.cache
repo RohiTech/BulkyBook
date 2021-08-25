@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Detj1tGbRyDvc3tVe4IqrU0gmCxeGo6iL3IduuN4p3qMpZwpg++k4eDAQ9vfjDAWTvL3p2PvPSaI86SWH1MN/g==",
+  "dgSpecHash": "XPBP6rszvDwUWilEc4DSQ8i+Dxeg8anoMgUr+gbz+IwDQTiKqkkDFd4U+eKTLEGzaZXqImxfFhUm2Wo9aAY2FA==",
   "success": true,
-  "projectFilePath": "D:\\u_netcore\\BulkyBook.Models\\BulkyBook.Models.csproj",
+  "projectFilePath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jfrancisco\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jfrancisco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.6\\microsoft.aspnetcore.cryptography.internal.5.0.6.nupkg.sha512",

@@ -750,11 +750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\u_netcore\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectUniqueName": "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "projectName": "BulkyBook.Utility",
-      "projectPath": "D:\\u_netcore\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
+      "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\jfrancisco\\.nuget\\packages\\",
-      "outputPath": "D:\\u_netcore\\BulkyBook.Utility\\obj\\",
+      "outputPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

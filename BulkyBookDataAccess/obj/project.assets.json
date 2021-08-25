@@ -6002,11 +6002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\u_netcore\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
       "projectName": "BulkyBook.DataAccess",
-      "projectPath": "D:\\u_netcore\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+      "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
       "packagesPath": "C:\\Users\\jfrancisco\\.nuget\\packages\\",
-      "outputPath": "D:\\u_netcore\\BulkyBookDataAccess\\obj\\",
+      "outputPath": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6027,11 +6027,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\u_netcore\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "D:\\u_netcore\\BulkyBook.Models\\BulkyBook.Models.csproj"
+            "D:\\u_netcore\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
             },
-            "D:\\u_netcore\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
-              "projectPath": "D:\\u_netcore\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+            "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }
