@@ -1589,6 +1589,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.6",
+          "Microsoft.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.6"
         },
@@ -1604,6 +1605,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.6",
+          "Microsoft.EntityFrameworkCore": "5.0.6",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.6"
         },
         "compile": {
@@ -5990,31 +5992,32 @@
       "BulkyBook.Models >= 1.0.0",
       "BulkyBook.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.6",
+      "Microsoft.EntityFrameworkCore >= 5.0.6",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jfrancisco\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
       "projectName": "BulkyBook.DataAccess",
-      "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\jfrancisco\\.nuget\\packages\\",
-      "outputPath": "D:\\u_netcore\\BulkyBook\\BulkyBookDataAccess\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBookDataAccess\\BulkyBook.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBookDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jfrancisco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6027,11 +6030,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\u_netcore\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
-              "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBook.Models\\BulkyBook.Models.csproj"
             },
-            "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
-              "projectPath": "D:\\u_netcore\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
+            "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\BulkyBook\\BulkyBook.Utility\\BulkyBook.Utility.csproj"
             }
           }
         }
@@ -6047,6 +6050,10 @@
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[5.0.6, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.6, )"
           },
@@ -6075,18 +6082,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
